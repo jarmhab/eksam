@@ -1,0 +1,10 @@
+INSERT INTO eurovision (country, song) VALUES ('Russia', 'A Million Voices');
+INSERT INTO eurovision (country, song) VALUES ('Italy', 'Grande amore');
+INSERT INTO eurovision (country, song) VALUES ('Belgium', 'Rhythm Inside');
+INSERT INTO eurovision (country, song) VALUES ('Australia', 'Tonight Again');
+INSERT INTO eurovision (country, song) VALUES ('Latvia', 'Love Injected');
+INSERT INTO eurovision (country, song) VALUES ('Estonia', 'Goodbye to Yesterday');
+INSERT INTO eurovision (country, song) VALUES ('Norway', 'A Monster Like Me');
+INSERT INTO eurovision (country, song) VALUES ('Israel', 'Golden Boy');
+INSERT INTO eurovision (country, song) VALUES ('Serbia', 'Beauty Never Lies');
+INSERT INTO eurovision (country, song) VALUES ('Georgia', 'Warrior');
